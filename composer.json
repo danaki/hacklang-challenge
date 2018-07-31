@@ -1,0 +1,11 @@
+{
+    "require": {
+        "hhvm/hsl": "^3.27",
+        "facebook/fbexpect": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Challenge\\": "src/"
+        }
+    }
+}
